@@ -1,0 +1,11 @@
+﻿real/predicho,Amaryllidaceae,Apiaceae,Asparagaceae,Caprifoliaceae,Moraceae,Plantaginaceae,Ranunculaceae,Rosaceae,Solanaceae,Urticaceae
+Amaryllidaceae,46,2,6,0,1,2,3,0,0,0
+Apiaceae,3,45,3,1,1,2,3,0,1,1
+Asparagaceae,2,2,51,0,0,2,3,0,0,0
+Caprifoliaceae,3,1,1,43,3,4,1,1,3,0
+Moraceae,1,1,0,2,45,3,0,4,2,2
+Plantaginaceae,2,0,0,0,1,47,2,1,3,4
+Ranunculaceae,1,0,2,1,2,5,47,1,0,1
+Rosaceae,0,0,1,6,6,0,0,43,2,2
+Solanaceae,1,2,0,2,4,0,0,0,48,3
+Urticaceae,1,9,3,0,0,3,1,0,0,43

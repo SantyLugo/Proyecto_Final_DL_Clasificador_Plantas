@@ -1,0 +1,21 @@
+species_id,toxicological_profile,toxicological_note,evidence_url
+1363991,Comestible,"Se refiere al fruto carnoso maduro; el perfil no declara comestibles todas las partes.",https://www.kew.org/plants/wild-strawberry
+1363268,Comestible,"Los brotes jóvenes son la parte alimentaria habitual.",https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:531229-1/general-information
+1391368,Comestible,"El fruto seco (avellana) es alimento; no cubre alergias individuales.",https://www.rhs.org.uk/plants/4511/corylus-avellana-f/details
+1356217,Comestible,"Uvas maduras usadas como alimento; el perfil se refiere al fruto.",https://www.kew.org/plants/grape-vine
+1359658,Comestible,"Los frutos maduros se consumen; frutos inmaduros pueden producir efectos adversos.",https://research.fs.usda.gov/feis/species-reviews/moralb
+1397306,Comestible con precaución,"Hojas usadas como alimento, pero la confusión con Convallaria majalis y Colchicum autumnale puede causar intoxicaciones graves.",https://www.bfr.bund.de/en/press-release/baerlauch-vorsicht-vor-verwechslungen/
+1356464,Comestible con precaución,"Limitar el uso alimentario a bayas maduras y preparadas; frutos inmaduros y otras partes pueden contener compuestos cianogénicos.",https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-sambucus-nigra-l-fructus_en.pdf
+1360316,Comestible con precaución,"La pulpa del fruto es alimento; no ingerir semillas/huesos triturados por glucósidos cianogénicos.",https://plants.ces.ncsu.edu/plants/prunus-avium/
+1363227,Comestible con precaución,"La raíz de la zanahoria cultivada es alimento; identificación de Apiaceae silvestres requiere cautela por especies parecidas tóxicas.",https://www.kew.org/plants/wild-carrot
+1356171,Comestible con precaución,"El tubérculo sano y bien almacenado es alimento; retirar tubérculos verdes, brotados o deteriorados por los glicoalcaloides.",https://www.bfr.bund.de/cm/349/table-potatoes-should-contain-low-levels-of-glycoalkaloids-solanine.pdf
+1356200,Levemente tóxica,"Los pelos urticantes causan una reacción local al contacto; brotes procesados/cocidos se usan como alimento. El perfil prioriza el peligro de contacto de la planta sin preparar.",https://doi.org/10.1155/2013/857120
+1397391,Levemente tóxica,"El centro toxicológico sueco informa irritación y síntomas gastrointestinales; no conoce intoxicaciones humanas graves y una pequeña probada se considera de bajo riesgo.",https://giftinformation.se/vaxtregister/snodroppe/
+1360187,Levemente tóxica,"La RHS la clasifica como dañina si se ingiere e irritante cutánea; el perfil operativo refleja irritación local/GI y no una dosis humana segura.",https://www.rhs.org.uk/plants/50360/ranunculus-acris/details
+1361543,Levemente tóxica,"La extensión de NC State asigna baja gravedad de toxicidad; describe salivación, vómitos y diarrea, especialmente por el rizoma.",https://plants.ces.ncsu.edu/plants/iris-pseudacorus/
+1359675,Levemente tóxica,"El centro de información toxicológica noruego describe síntomas gastrointestinales con pequeñas ingestas; mayores cantidades pueden causar síntomas adicionales.",https://www.helsenorge.no/se/giftinformasjon/planter-og-bar-a-a/liguster/
+1363216,Altamente tóxica,"Alcaloides neurotóxicos; la exposición oral puede causar vómitos, convulsiones, debilidad, insuficiencia respiratoria y muerte.",https://pmc.ncbi.nlm.nih.gov/articles/PMC9453220/
+1364079,Altamente tóxica,"Glucósidos cardiacos; la ingestión puede causar alteraciones graves del ritmo cardiaco y muerte.",https://pmc.ncbi.nlm.nih.gov/articles/PMC9453220/
+1396710,Altamente tóxica,"Taxinas en la planta y semillas; pueden provocar arritmias potencialmente mortales.",https://pmc.ncbi.nlm.nih.gov/articles/PMC9453220/
+1363813,Altamente tóxica,"Glucósidos cardiacos como oleandrina; intoxicación potencialmente mortal.",https://pubmed.ncbi.nlm.nih.gov/20438743/
+1360549,Altamente tóxica,"Alcaloides tropánicos causan síndrome anticolinérgico grave, convulsiones, coma y posible muerte.",https://pmc.ncbi.nlm.nih.gov/articles/PMC9453220/

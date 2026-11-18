@@ -1,0 +1,21 @@
+species_id,toxicological_profile,toxicological_note,evidence_url
+1363991,Comestible,"El fruto maduro es comestible; el perfil no declara comestibles todas las partes.",https://www.kew.org/plants/wild-strawberry
+1359658,Comestible,"Los frutos maduros se consumen; los frutos inmaduros pueden producir efectos adversos.",https://research.fs.usda.gov/feis/species-reviews/moralb
+1363268,Comestible,"Los brotes jóvenes son la parte alimentaria habitual.",https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:531229-1/general-information
+1356066,Comestible,"Las hojas jóvenes se consumen como alimento; se mantiene la identidad taxonómica original de PlantCLEF.",https://plants.ces.ncsu.edu/plants/plantago-lanceolata/
+1356200,Comestible,"Las hojas procesadas o cocidas son alimento; los pelos urticantes irritan la piel en fresco.",https://research.fs.usda.gov/feis/species-reviews/urtdio
+1360316,Comestible con precaución,"La pulpa del fruto es alimento; no ingerir semillas/huesos triturados por glucósidos cianogénicos.",https://plants.ces.ncsu.edu/plants/prunus-avium/
+1363142,Comestible con precaución,"El fruto maduro se consume; la categoría se limita al fruto y considera la savia irritante de otras partes.",https://www.kew.org/plants/fig
+1397306,Comestible con precaución,"Hojas usadas como alimento, pero la confusión con Convallaria majalis y Colchicum autumnale puede causar intoxicaciones graves.",https://www.bfr.bund.de/en/press-release/baerlauch-vorsicht-vor-verwechslungen/
+1363227,Comestible con precaución,"La raíz de la zanahoria cultivada es alimento; la identificación de Apiaceae silvestres exige cautela por especies parecidas.",https://www.kew.org/plants/wild-carrot
+1356171,Comestible con precaución,"El tubérculo sano y bien almacenado es alimento; retirar tubérculos verdes, brotados o deteriorados por los glicoalcaloides.",https://www.bfr.bund.de/cm/349/table-potatoes-should-contain-low-levels-of-glycoalkaloids-solanine.pdf
+1397391,Levemente tóxica,"El centro toxicológico sueco informa irritación y síntomas gastrointestinales; no conoce intoxicaciones humanas graves y una pequeña probada se considera de bajo riesgo.",https://giftinformation.se/vaxtregister/snodroppe/
+1360187,Levemente tóxica,"La RHS la clasifica como dañina si se ingiere e irritante cutánea; la categoría resume irritación y molestias por exposición accidental, sin definir dosis humana segura.",https://www.rhs.org.uk/plants/50360/ranunculus-acris/details
+1393639,Levemente tóxica,"Las bayas pueden causar molestias gastrointestinales; el centro antivenenos de Bonn califica la especie como de toxicidad baja a tóxica y advierte sobre ingestas mayores.",https://gizbonn.de/giftzentrale-bonn/pflanzen/gemeine-heckenkirsche
+1356790,Levemente tóxica,"El centro toxicológico noruego indica savia irritante, síntomas gastrointestinales y consultar por ingestas de más de 10–15 bayas.",https://www.helsenorge.no/en/poison-information/planter-og-bar-a-a/vivendel/
+1356201,Levemente tóxica,"Los pelos urticantes causan enrojecimiento, picor, hinchazón y ardor locales; suelen ser síntomas breves.",https://www.poisonsinfo.health.qld.gov.au/plants-and-mushrooms/stinging-nettles-urtica-urens-urtica-incisa
+1363216,Altamente tóxica,"Alcaloides neurotóxicos; la exposición oral puede causar convulsiones, debilidad, insuficiencia respiratoria y muerte.",https://pmc.ncbi.nlm.nih.gov/articles/PMC9453220/
+1360549,Altamente tóxica,"Alcaloides tropánicos producen síndrome anticolinérgico grave, convulsiones, coma y posible muerte.",https://pmc.ncbi.nlm.nih.gov/articles/PMC9453220/
+1395208,Altamente tóxica,"Los alcaloides de aconitina alteran canales de sodio y pueden provocar arritmias potencialmente mortales.",https://pmc.ncbi.nlm.nih.gov/articles/PMC9453220/
+1391336,Altamente tóxica,"Glucósidos cardiacos; la ingestión puede alterar gravemente el ritmo cardiaco y ser mortal.",https://www.gesundheit.gv.at/krankheiten/vergiftungsinformation/vergiftung-pflanzen.html
+1364079,Altamente tóxica,"Glucósidos cardiacos de Digitalis pueden causar arritmias graves y muerte.",https://pmc.ncbi.nlm.nih.gov/articles/PMC9453220/

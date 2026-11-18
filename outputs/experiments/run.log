@@ -1,0 +1,83 @@
+﻿**********************
+Inicio de la transcripción de Windows PowerShell
+Hora de inicio: 20261118002626
+Nombre de usuario: DESKTOP-MR9D8IG\User
+Usuario RunAs: DESKTOP-MR9D8IG\User
+Nombre de la configuración: 
+Máquina: DESKTOP-MR9D8IG (Microsoft Windows NT 10.0.26200.0)
+Aplicación host: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\scripts\run_experiments.ps1
+Id. de proceso: 4624
+PSVersion: 5.1.26100.9818
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9818
+BuildVersion: 10.0.26100.9818
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Inicio: 2026-11-18 00:26:26
+Python: .\.venv\Scripts\python.exe
+Guardado: C:\Users\User\Documents\Clases\DeepLearning\Proyecto Final\Proyecto_Final_Deep_Learning_Lugo\outputs\splits.csv
+Imágenes: 4000 | grupos obs_id: 3973
+split                                test  train  validation
+species_id scientific_name
+1356066    Plantago lanceolata L.      30    140          30
+1356171    Solanum tuberosum L.        30    140          30
+1356200    Urtica dioica L.            30    140          30
+1356201    Urtica urens L.             30    140          30
+1356790    Lonicera periclymenum L.    30    140          30
+1359658    Morus alba L.               30    140          30
+1360187    Ranunculus acris L.         30    140          30
+1360316    Prunus avium (L.) L.        30    140          30
+1360549    Datura stramonium L.        30    140          30
+1363142    Ficus carica L.             30    140          30
+1363216    Conium maculatum L.         30    140          30
+1363227    Daucus carota L.            30    140          30
+1363268    Asparagus officinalis L.    30    140          30
+1363991    Fragaria vesca L.           30    140          30
+1364079    Digitalis purpurea L.       30    140          30
+1391336    Convallaria majalis L.      30    140          30
+1393639    Lonicera xylosteum L.       30    140          30
+1395208    Aconitum napellus L.        30    140          30
+1397306    Allium ursinum L.           30    140          30
+1397391    Galanthus nivalis L.        30    140          30
+Descongela el ultimo bloque de EfficientNet-B0 con tasa menor.
+Época 01/30 | loss 1.5177/1.2536 | toxicidad val acc 0.610 macro-F1 0.602 | familia val macro-F1 0.645 | 189.4s
+Época 02/30 | loss 1.0575/1.0592 | toxicidad val acc 0.652 macro-F1 0.647 | familia val macro-F1 0.713 | 189.1s
+Época 03/30 | loss 0.8441/0.9815 | toxicidad val acc 0.680 macro-F1 0.678 | familia val macro-F1 0.730 | 188.8s
+Época 04/30 | loss 0.7056/0.8903 | toxicidad val acc 0.737 macro-F1 0.737 | familia val macro-F1 0.761 | 187.4s
+Época 05/30 | loss 0.5969/0.8727 | toxicidad val acc 0.733 macro-F1 0.731 | familia val macro-F1 0.775 | 187.9s
+Época 06/30 | loss 0.5095/0.8249 | toxicidad val acc 0.757 macro-F1 0.757 | familia val macro-F1 0.775 | 187.6s
+Época 07/30 | loss 0.4276/0.8316 | toxicidad val acc 0.763 macro-F1 0.764 | familia val macro-F1 0.779 | 186.5s
+Época 08/30 | loss 0.3730/0.8243 | toxicidad val acc 0.758 macro-F1 0.757 | familia val macro-F1 0.790 | 187.3s
+Época 09/30 | loss 0.3124/0.8016 | toxicidad val acc 0.770 macro-F1 0.770 | familia val macro-F1 0.801 | 188.1s
+Época 10/30 | loss 0.2634/0.8147 | toxicidad val acc 0.772 macro-F1 0.771 | familia val macro-F1 0.793 | 187.4s
+Época 11/30 | loss 0.2265/0.8165 | toxicidad val acc 0.768 macro-F1 0.767 | familia val macro-F1 0.791 | 187.7s
+Época 12/30 | loss 0.1925/0.8267 | toxicidad val acc 0.765 macro-F1 0.764 | familia val macro-F1 0.783 | 187.4s
+Época 13/30 | loss 0.1681/0.8280 | toxicidad val acc 0.757 macro-F1 0.757 | familia val macro-F1 0.789 | 188.2s
+Época 14/30 | loss 0.1383/0.8283 | toxicidad val acc 0.770 macro-F1 0.770 | familia val macro-F1 0.783 | 187.6s
+Época 15/30 | loss 0.1244/0.8459 | toxicidad val acc 0.767 macro-F1 0.766 | familia val macro-F1 0.784 | 187.2s
+Época 16/30 | loss 0.1069/0.8557 | toxicidad val acc 0.775 macro-F1 0.774 | familia val macro-F1 0.790 | 187.0s
+Época 17/30 | loss 0.0926/0.8767 | toxicidad val acc 0.772 macro-F1 0.771 | familia val macro-F1 0.785 | 188.1s
+Época 18/30 | loss 0.0801/0.8995 | toxicidad val acc 0.780 macro-F1 0.778 | familia val macro-F1 0.787 | 186.6s
+Época 19/30 | loss 0.0692/0.8890 | toxicidad val acc 0.772 macro-F1 0.771 | familia val macro-F1 0.783 | 213.0s
+Época 20/30 | loss 0.0642/0.9129 | toxicidad val acc 0.768 macro-F1 0.767 | familia val macro-F1 0.782 | 223.8s
+Época 21/30 | loss 0.0577/0.9079 | toxicidad val acc 0.775 macro-F1 0.774 | familia val macro-F1 0.788 | 200.6s
+Época 22/30 | loss 0.0508/0.9448 | toxicidad val acc 0.763 macro-F1 0.762 | familia val macro-F1 0.776 | 205.0s
+Época 23/30 | loss 0.0457/0.9456 | toxicidad val acc 0.757 macro-F1 0.756 | familia val macro-F1 0.775 | 210.4s
+Época 24/30 | loss 0.0438/0.9545 | toxicidad val acc 0.768 macro-F1 0.766 | familia val macro-F1 0.782 | 210.4s
+Época 25/30 | loss 0.0363/0.9401 | toxicidad val acc 0.773 macro-F1 0.773 | familia val macro-F1 0.780 | 199.8s
+Época 26/30 | loss 0.0347/1.0077 | toxicidad val acc 0.760 macro-F1 0.758 | familia val macro-F1 0.781 | 188.5s
+Época 27/30 | loss 0.0290/0.9899 | toxicidad val acc 0.765 macro-F1 0.764 | familia val macro-F1 0.778 | 185.5s
+Época 28/30 | loss 0.0287/0.9824 | toxicidad val acc 0.768 macro-F1 0.768 | familia val macro-F1 0.778 | 186.3s
+Época 29/30 | loss 0.0247/1.0001 | toxicidad val acc 0.767 macro-F1 0.766 | familia val macro-F1 0.783 | 186.5s
+Época 30/30 | loss 0.0229/0.9970 | toxicidad val acc 0.770 macro-F1 0.769 | familia val macro-F1 0.791 | 186.4s
+Mejor época: 18; test toxicidad macro-F1=0.728, familia macro-F1=0.783; duración=96.8 min
+
+Comparación guardada: C:\Users\User\Documents\Clases\DeepLearning\Proyecto Final\Proyecto_Final_Deep_Learning_Lugo\outputs\experiments\comparison.csv
+Finalizado: 2026-11-18 06:47:45
+**********************
+Fin de la transcripción de Windows PowerShell
+Hora de finalización: 20261118064745
+**********************

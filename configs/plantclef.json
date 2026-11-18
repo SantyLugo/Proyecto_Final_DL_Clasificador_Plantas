@@ -1,0 +1,19 @@
+{
+  "dataset_dir": "../PlantCLEF_Subdataset_4000_v3",
+  "labels_file": "labels.csv",
+  "classes_file": "classes.csv",
+  "split_file": "outputs/splits.csv",
+  "seed": 42,
+  "train_fraction": 0.70,
+  "validation_fraction": 0.15,
+  "test_fraction": 0.15,
+  "image_size": 192,
+  "batch_size": 32,
+  "num_workers": 0,
+  "pretrained": true,
+  "freeze_backbone": true,
+  "toxicity_loss_weight": 1.0,
+  "family_auxiliary_loss_weight": 0.25,
+  "primary_target": "toxicological_profile",
+  "auxiliary_target": "family"
+}

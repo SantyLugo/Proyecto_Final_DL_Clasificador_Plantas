@@ -1,0 +1,46 @@
+{
+  "defaults": {
+    "epochs": 30,
+    "batch_size": 32,
+    "image_size": 192,
+    "pretrained": true,
+    "optimizer": "Adam",
+    "toxicity_loss_weight": 1.0,
+    "family_auxiliary_loss_weight": 0.25,
+    "seed": 42
+  },
+  "experiments": [
+    {
+      "name": "baseline_frozen_lr001",
+      "description": "EfficientNet-B0 congelada; cabezas sin dropout; Adam 0.001.",
+      "freeze_strategy": "all",
+      "head_learning_rate": 0.001,
+      "backbone_learning_rate": null,
+      "dropout": 0.0
+    },
+    {
+      "name": "frozen_dropout03",
+      "description": "Aísla el efecto de dropout 0.3 en ambas cabezas.",
+      "freeze_strategy": "all",
+      "head_learning_rate": 0.001,
+      "backbone_learning_rate": null,
+      "dropout": 0.3
+    },
+    {
+      "name": "frozen_lr01",
+      "description": "Aísla el efecto de elevar la tasa de aprendizaje a 0.01.",
+      "freeze_strategy": "all",
+      "head_learning_rate": 0.01,
+      "backbone_learning_rate": null,
+      "dropout": 0.0
+    },
+    {
+      "name": "last_block_finetune",
+      "description": "Descongela el ultimo bloque de EfficientNet-B0 con tasa menor.",
+      "freeze_strategy": "last_block",
+      "head_learning_rate": 0.001,
+      "backbone_learning_rate": 0.0001,
+      "dropout": 0.0
+    }
+  ]
+}

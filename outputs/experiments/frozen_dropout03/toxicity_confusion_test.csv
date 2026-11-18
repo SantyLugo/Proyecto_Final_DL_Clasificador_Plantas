@@ -1,0 +1,5 @@
+﻿real/predicho,Comestible,Comestible con precaución,Levemente tóxica,Altamente tóxica
+Comestible,95,16,19,20
+Comestible con precaución,11,92,25,22
+Levemente tóxica,16,16,101,17
+Altamente tóxica,10,17,11,112
